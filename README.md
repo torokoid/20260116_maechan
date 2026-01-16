@@ -177,6 +177,11 @@ p.note { display: none; }
 <h2><span class="yellow">メタバース内の話題でミカンが体に良いとのことで、たくさん食べてます</span></h2>
 <a href="20260116_003.JPG" target="_blank"><img src="20260116_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">メタバース内でお披露目された、お正月と柑橘類のお話動画</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AGgHNwUQ1LU?si=vlAoI5fiL8DXF11a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">ここからは庭のお花たちです</span></h2>
 <a href="20260116_004.JPG" target="_blank"><img src="20260116_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260116_005.JPG" target="_blank"><img src="20260116_005.JPG" alt="サンプル画像" class="responsive-media"></a>
